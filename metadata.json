@@ -1,0 +1,6 @@
+{
+  "name": "Intervyou: AI Interview Partner",
+  "description": "A real-time, multilingual AI interview practice partner that helps you prepare for international job roles with interactive simulations and feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Multilingual Support", "Real-time AI Feedback", "Adaptive Interview Simulation"]
+}
